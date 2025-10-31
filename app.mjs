@@ -26,6 +26,8 @@ new routes.PollQuestions(app, mongoose);
 new routes.PollResponses(app, mongoose);
 new routes.TicketTypeController(app, mongoose);
 new routes.Tickets(app, mongoose);
+new routes.ShoppingListController(app, mongoose);
+new routes.CarpoolController(app, mongoose);
 // Plus tard : new routes.Events(app, mongoose);
 
 const PORT = process.env.PORT || 5000;

@@ -10,6 +10,8 @@ import PollQuestions from '../controllers/pollQuestions.mjs';
 import PollResponses from '../controllers/pollResponses.mjs';
 import TicketTypeController from '../controllers/ticketTypeController.mjs';
 import Tickets from '../controllers/ticketController.mjs';
+import ShoppingListController from '../controllers/shoppingListController.mjs';
+import CarpoolController from '../controllers/carpoolController.mjs';
 // Plus tard : import Events from './events.mjs'; etc.
 
 export default {
@@ -24,5 +26,7 @@ export default {
   PollQuestions,
   PollResponses,
   TicketTypeController,
-  Tickets
+  Tickets,
+  ShoppingListController,
+  CarpoolController
 };
