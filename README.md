@@ -134,7 +134,7 @@ My_Social_Network_API/
 ### 1️⃣ Cloner le dépôt
 
 ```bash
-git clone https://github.com/Yoann2006/My_Social_Network_API.git
+git clone https://github.com/Aldric07/My_Social_Network_API.git
 cd My_Social_Network_API
 ```
 
